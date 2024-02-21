@@ -1,5 +1,11 @@
 ## 👋 Olá! Seja bem-vindo(a) ao meu GitHub.
 
+<h3 align="center">ESTUDANDO:</h3>
+<div align="center">Linguagens em Foco:</div>
+<div align="center">C++, PHP, SQL, PYTHON</div>
+ 
+##
+
 <div align="center">
   <a href = "https://github.com/strLuckyyy"/>
   <img height = "160em" src = "https://github-readme-stats.vercel.app/api?username=strluckyyy&show_icons=true&theme=slateorange"/>
