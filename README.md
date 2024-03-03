@@ -2,7 +2,7 @@
 
 <h3 align="center">ESTUDANDO:</h3>
 <div align="center">Linguagens em Foco:</div>
-<div align="center">Unity, JavaScript</div>
+<div align="center">Python, Unity, JavaScript</div>
  
 ##
 
