@@ -1,9 +1,4 @@
-## 👋 Olá! Seja bem-vindo(a) ao meu GitHub.
-
-<h3 align="center">ESTUDANDO:</h3>
-<div align="center">Linguagens em Foco:</div>
-<div align="center">Python, C# na Unity, JavaScript</div>
- 
+## 👋 Olá! Seja bem-vindo(a) ao meu GitHub. 
 ##
 
 <div align="center">
