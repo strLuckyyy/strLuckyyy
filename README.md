@@ -2,15 +2,11 @@
 
 <div align="center">
   <a href = "https://github.com/strLuckyyy"/>
-  <img height = "160em" src = "https://github-readme-stats.vercel.app/api?username=strluckyyy&show_icons=true&theme=slateorange"/>
-  <img height = "160em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=strluckyyy&layout=compact&theme=slateorange"/>
+  <img height = "220em" src="https://github-readme-stats.vercel.app/api/wakatime?username=strLuckyyy&layout=compact&theme=slateorange"/>
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=strluckyyy&show_icons=true&theme=slateorange"/>
 </div>
 
-<div align="center">
- <div href="https://github.com/strLuckyyy/github-readme-stats">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=strLuckyyy&layout=compact&theme=slateorange"/>
- </div>
-</div>
+<div align="center"><div href="https://github.com/strLuckyyy/github-readme-stats"/></div>
  
   ##
 
