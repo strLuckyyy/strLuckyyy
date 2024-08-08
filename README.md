@@ -5,6 +5,8 @@
   <img width="640" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=strLuckyyy&layout=compact&theme=slateorange"/>
 </div>
 
+###### dados do waka time a partir de feb 2024
+
   ##
 
 <div align="center">
