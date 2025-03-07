@@ -1,4 +1,25 @@
-## 👋 Olá! Seja bem-vindo(a) ao meu GitHub.
+# 👋 Opa!
+Sou o Abrahão, estudante de Jogos Digitais na UNISINOS. Tenho como foco a área da programação e arte 2D. 
+
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=py,java,cs,js,mysql)](https://skillicons.dev)
+  <br />
+  [![My Skills](https://skillicons.dev/icons?i=unreal,godot)](https://skillicons.dev)
+  <br />
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,rider)](https://skillicons.dev)
+  
+</div>
+
+## Learning:
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=css,html,c,cpp)](https://skillicons.dev)
+  <br />
+  [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+  
+</div>
+<hr/>
 
 <div align="center">
   <a href = "https://wakatime.com/@strLuckyyy"/>
