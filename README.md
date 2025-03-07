@@ -8,6 +8,8 @@
   [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,rider)](https://skillicons.dev)
   <br />
   [![My Skills](https://skillicons.dev/icons?i=unreal,godot)](https://skillicons.dev)
+  <br />
+  [![My Skills](https://skillicons.dev/icons?i=windows,mint)](https://skillicons.dev)
   
 </div>
 
