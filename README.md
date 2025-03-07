@@ -5,9 +5,9 @@ Sou o Abrahão, estudante de Jogos Digitais na UNISINOS. Tenho como foco a área
   
   [![My Skills](https://skillicons.dev/icons?i=py,java,cs,js,mysql)](https://skillicons.dev)
   <br />
-  [![My Skills](https://skillicons.dev/icons?i=unreal,godot)](https://skillicons.dev)
-  <br />
   [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,rider)](https://skillicons.dev)
+  <br />
+  [![My Skills](https://skillicons.dev/icons?i=unreal,godot)](https://skillicons.dev)
   
 </div>
 
