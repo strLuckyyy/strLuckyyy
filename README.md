@@ -11,7 +11,10 @@
   
 </div>
 
-## Learning:
+<hr/>
+
+### Learning:
+
 <div align="center">
   
   [![My Skills](https://skillicons.dev/icons?i=css,html,c,cpp)](https://skillicons.dev)
