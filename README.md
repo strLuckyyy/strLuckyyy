@@ -1,5 +1,5 @@
 # 👋 Opa!
-### Sou o Abrahão, estudante de Jogos Digitais na UNISINOS. Tenho como foco a área da programação e arte 2D. 
+Sou o Abrahão, estudante de Jogos Digitais na UNISINOS. Tenho como foco a área da programação e arte 2D. 
 
 <div align="center">
   
@@ -12,7 +12,7 @@
 
 <hr/>
 
-### Learning:
+## Learning:
 
 <div align="center">
   
