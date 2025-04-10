@@ -3,9 +3,9 @@ Sou o Abrahão, estudante de Jogos Digitais na UNISINOS. Tenho como foco a área
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=py,cs,js,mysql)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,rider)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,cs,css,html,js,mysql)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=unreal,godot)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,rider)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=windows,mint)](https://skillicons.dev)
   
 </div>
@@ -16,7 +16,7 @@ Sou o Abrahão, estudante de Jogos Digitais na UNISINOS. Tenho como foco a área
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=css,html,c,cpp)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
   
 </div>
