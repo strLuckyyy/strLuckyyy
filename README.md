@@ -1,5 +1,11 @@
 # 👋 Opa!
-Sou o Abrahão, estudante de Jogos Digitais na UNISINOS. Tenho como foco a área da programação e arte 2D. 
+
+ ![Status](./profile-3d-contrib/profile-night-green.svg)
+  
+
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=strLuckyyy&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=strLuckyyy&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
 <div align="center">
   
