@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href = "https://wakatime.com/@strLuckyyy"/>
-  <img width="800" height="320" src="https://github-readme-stats.vercel.app/api/wakatime?username=strLuckyyy&layout=compact&theme=slateorange"/>
+  <img width="800" height="320" src="https://github-readme-stats.vercel.app/api/wakatime?username=strLuckyyy&layout=compact&theme=dark"/>
 </div>
 
 <div align="center">
